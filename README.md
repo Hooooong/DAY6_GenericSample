@@ -136,11 +136,11 @@ ____________________________________________________
 
     public class News{
       // 사진
-    	String thumb;
+      String thumb;
       // 이름
       String name;
       // 내용
-    	String summary;
+      String summary;
 
     	public News(String thumb, String name, String summary) {
     		super();
