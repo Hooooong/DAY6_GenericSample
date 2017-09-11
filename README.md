@@ -130,7 +130,7 @@ ____________________________________________________
   - `News.java`
 
     - News Model 을 담당하는 클래스
-    - 접근제한자를 private 로 하여 get, set 을 생성
+    - 접근제한자를 private 로 하여 getter, setter 을 생성
 
     ```java
     package com.leeheungki.generic;
